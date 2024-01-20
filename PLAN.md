@@ -15,7 +15,7 @@
     - GUI takes in general inputs and determines whether the focused websites falls under one of the general categories to block.
     - [ ] Once I have learned ML, make my own AI to determine whether I should block.
 - Sends website's duration of visit to backend.
-- Redirects to
+- Redirects to block
 
 # WebApp
 
