@@ -15,7 +15,7 @@
     - GUI takes in general inputs and determines whether the focused websites falls under one of the general categories to block.
     - [ ] Once I have learned ML, make my own AI to determine whether I should block.
 - Sends website's duration of visit to backend.
-- Redirects to block
+- Redirects to block.
 
 # WebApp
 
@@ -71,6 +71,7 @@
 
   - GET tasks - Array of taskID as an input
   - DELETE tasks - Array of taskID as an input. This means having to delete in agenda and todolist.
+  - GET workingTask - get the task you are currently working on (WebSockets Possibly?)
 
 - TodoList
 
